@@ -1,0 +1,172 @@
+@CHARSET "ISO-8859-1";
+<style>
+	
+body{
+	font-family: 'Century Gothic', Calibri, serif;
+	font-size: 13px;
+	margin: 0px;
+	padding: 0px;
+	
+}
+	
+h1{
+	font-size: 40px;
+	font-weight: normal;
+	text-align: center;
+}
+
+h2{
+	font-size: 20px;
+	font-weight: normal;
+	text-align: center;
+}
+
+header{
+	height: 120px;
+	background-color: #FFFFFF;
+}
+
+nav li{
+	list-style-type: none;
+	float: left;
+	
+}
+
+nav > ul{
+	margin: 0px;
+	padding: 0px;
+	
+}
+
+nav{
+	width: 100%;
+	background-color: #17687E;
+}
+
+nav a{
+	display: inline-block;
+	text-decoration: none;
+	padding: 20px 30px;
+	color: #FFF;
+	text-transform: uppercase;
+	font-size: 15px;
+}
+
+.table{
+	display: table;
+	margin: 0 auto;
+	
+}
+
+.menu-utilisateur:hover{
+	border-top: 5px solid #4c8;
+	background-color: RGBa(64, 200, 130, 0.15);
+}
+
+
+.menu-kpi:hover{
+	border-top: 5px solid #4c8;
+	background-color: RGBa(64, 200, 130, 0.15);
+}
+
+.menu-historique:hover{
+	border-top: 5px solid #4c8;
+	background-color: RGBa(64, 200, 130, 0.15);
+}
+.menu-catalogue:hover{
+	border-top: 5px solid #4c8;
+	background-color: RGBa(64, 200, 130, 0.15);
+}
+
+}
+.menu-admin:hover{
+	border-top: 5px solid #4c8;
+	background-color: RGBa(64, 200, 130, 0.15);
+}
+
+.menu-utilisateur .submenu{
+	background-color: RGBa(64, 200, 130, 0.15);
+}
+
+.menu-kpi .submenu{
+	background-color: RGBa(64, 200, 130, 0.15);
+}
+
+.menu-historique .submenu{
+	background-color: RGBa(64, 200, 130, 0.15);
+}
+
+.menu-catalogue .submenu{
+	background-color: RGBa(64, 200, 130, 0.15);
+}
+
+.menu-admin .submenu{
+	background-color: RGBa(64, 200, 130, 0.15);
+}
+
+
+
+nav li:hover a{
+	padding: 15px 30px 20px 30px;
+}
+
+
+
+
+
+form#myform label { display:inline-block; width:150px; }
+form#myform input { display:inline-block; }
+form#myform input[type=submit] { color:#fff; background-color:#408080; }
+
+
+.submenu{
+	display: none;
+}
+
+nav li:hover .submenu{
+	display: inline-block;
+	position: absolute;
+	top: 100%;
+	left: 0px;
+	padding: 0px;
+	z-index:100000;
+}
+
+.submenu li{
+	border-bottom : 1px solid #CCC;
+}
+
+.submenu li a{
+	padding: 15px 30px;
+	font-size: 13px;
+	color:#222538;
+	width: 270px;
+}
+
+nav > ul:after{
+	content: "";
+	display: block;
+	clear: both;
+}
+
+nav a{
+	display: inline-block;
+	text-decoration: none;
+	
+}
+
+
+nav > ul > li{
+	float: left;
+	position: relative;
+}
+
+
+
+nav > ul > li > a{
+	padding: 20px 30px;
+	color: #FFF;
+}
+
+
+</style>
