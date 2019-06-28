@@ -1,0 +1,1 @@
+D:\Applications\IBM\JazzTeamServer_502\server\repotools-jts.bat -importUsers fromFile=ListeUsersACreer.csv adminUserId=cedric.ferchal adminPassword=cedric.ferchal logFile=log_import_users.txt

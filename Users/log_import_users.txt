@@ -1,0 +1,37 @@
+2017-07-27 14:24:25,810 Repo Tools
+2017-07-27 14:24:25,831 java.version=1.6.0
+2017-07-27 14:24:25,831 java.runtime.version=pwa6460sr16fp1-20140706_01 (SR16 FP1)
+2017-07-27 14:24:25,857 Provision en cours avec "D:\Applications\IBM\JazzTeamServer_502\server\conf\jts\provision_profiles".
+2017-07-27 14:24:25,967 repotools-jts -importUsers adminPassword=************************ adminUserId=cedric.ferchal fromFile=ListeUsersACreer.csv logFile=log_import_users.txt
+2017-07-27 14:24:25,982   Jazz Foundation - Core Libraries, Version 5.0.2 (RJF-I20141028-1603)
+
+2017-07-27 14:24:33,519 
+2017-07-27 14:24:33,519 Création de l'utilisateur 'toto'...
+2017-07-27 14:24:33,691 L'utilisateur 'toto' existe déjà. Mise à jour de l'utilisateur...
+2017-07-27 14:24:33,957 La mise à jour de l'utilisateur 'toto' a abouti.
+2017-07-27 14:24:34,004 Mise à jour de l'utilisateur 'toto' dans l'annuaire utilisateur 'tomcat'...
+2017-07-27 14:24:34,129 La mise à jour de l'utilisateur 'toto' a abouti dans l'annuaire utilisateur 'tomcat'.
+2017-07-27 14:24:34,175 
+2017-07-27 14:24:34,175 Création de l'utilisateur 'tutu'...
+2017-07-27 14:24:34,597 La création de l'utilisateur 'tutu' a abouti.
+2017-07-27 14:24:34,629 Création de l'utilisateur 'tutu' dans l'annuaire utilisateur 'tomcat'...
+2017-07-27 14:24:34,722 La création de l'utilisateur 'tutu' a abouti dans l'annuaire utilisateur 'tomcat'.
+2017-07-27 14:24:34,753 Octroi de la licence 'com.ibm.rtc.developer-iep.floating' à l'utilisateur 'tutu'...
+2017-07-27 14:24:34,941 La licence 'com.ibm.rtc.developer-iep.floating' a été octroyée à l'utilisateur 'tutu'.
+2017-07-27 14:24:34,941 
+2017-07-27 14:24:34,941 Modifications apportées au référentiel Jazz 'https://localhost:9443/jts'.
+2017-07-27 14:24:34,941 	Nombre d'utilisateurs créés dans le référentiel Jazz : 1
+2017-07-27 14:24:34,941 	Nombre d'utilisateurs mis à jour dans le référentiel Jazz : 1
+2017-07-27 14:24:34,941 	Erreur lors de la création de 0 utilisateur(s) et de la mise à jour de 0 utilisateur(s).
+2017-07-27 14:24:34,957 Modifications apportées au répertoire des utilisateurs 'tomcat'.
+2017-07-27 14:24:34,957 	Nombre d'utilisateurs créés dans l'annuaire utilisateur : 1
+2017-07-27 14:24:34,957 	Nombre d'utilisateurs mis à jour dans l'annuaire utilisateur : 1
+2017-07-27 14:24:34,957 	Erreur lors de la création de 0 utilisateur(s) et de la mise à jour de 0 utilisateur(s).
+2017-07-27 14:24:34,957 	Nombre d'utilisateurs créés ou mis à jour avec le rôle JazzUsers : 2
+2017-07-27 14:24:34,972 	Nombre d'utilisateurs créés ou mis à jour avec le rôle JazzGuests : 0
+2017-07-27 14:24:34,972 	Nombre d'utilisateurs créés ou mis à jour avec le rôle JazzAdmins : 0
+2017-07-27 14:24:34,972 	Nombre d'utilisateurs créés ou mis à jour avec le rôle JazzProjectAdmins : 0
+2017-07-27 14:24:34,972 	Nombre d'utilisateurs créés ou mis à jour avec le rôle JazzDWAdmins : 0
+2017-07-27 14:24:34,972 Octroi de licences
+2017-07-27 14:24:34,972 	Des licences ont été octroyées à 1 utilisateur(s) dans le référentiel Jazz.
+2017-07-27 14:24:34,972 	Erreur lors de l'octroi de licences à 0 utilisateur(s).
