@@ -1,1 +1,0 @@
-D:\Applications\IBM\JazzTeamServer_502\server\repotools-jts.bat -exportUsers toFile=ListeUsers.csv adminUserId=cedric.ferchal adminPassword=cedric.ferchal logFile=log_export_users.txt
